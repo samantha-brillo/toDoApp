@@ -1,0 +1,43 @@
+.body {
+    font-family: 'Nunito', sans-serif;    
+}
+.Card {
+    width:300px;
+    background:#fff;
+    height:590px; 
+    margin:90px auto;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  
+}
+
+.Image{
+    width: 100%;
+}
+
+.cardInfo{
+    padding:10px;
+}
+
+.button1{
+    border-radius: 10em;
+    background-color: rgb(250, 250, 250);
+    padding: 4px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.button1:hover{
+    background-color: rgb(75, 200, 7);
+}
+.button2{
+    border-radius: 20em;
+    background-color: rgb(250, 250, 250);
+    padding: 4px;
+    margin: 10px;
+    cursor: pointer;
+}
+.button2:hover{
+    background-color: rgb(181, 4, 4);
+}
